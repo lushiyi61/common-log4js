@@ -1,0 +1,17 @@
+{
+   "compilerOptions": {
+      "lib": [
+         "dom",
+         "es2017"
+      ],
+      "resolveJsonModule": true,
+      "watch": true,
+      "target": "es6",
+      "module": "commonjs",
+      "moduleResolution": "node",
+      "outDir": "./build",
+      "emitDecoratorMetadata": true,
+      "experimentalDecorators": true,
+      "sourceMap": true
+   }
+}
