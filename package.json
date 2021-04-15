@@ -1,6 +1,6 @@
 {
   "name": "common-log4js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "日志模块",
   "main": "log4ts.js",
   "scripts": {
