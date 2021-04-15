@@ -2,7 +2,7 @@
   "name": "common-log4js",
   "version": "1.0.1",
   "description": "日志模块",
-  "main": "log4js.js",
+  "main": "log4ts.js",
   "scripts": {
     "build": "tsc",
     "test": "ts-node lib/test.ts"
