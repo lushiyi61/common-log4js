@@ -1,10 +1,11 @@
 {
   "name": "common-log4js",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "日志模块",
-  "main": "log4js.ts",
+  "main": "log4js.js",
   "scripts": {
-    "test": "ts-node test.ts"
+    "build": "tsc",
+    "test": "ts-node lib/test.ts"
   },
   "author": "lushiyi",
   "license": "MIT",
